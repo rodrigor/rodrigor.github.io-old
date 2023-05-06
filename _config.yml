@@ -275,7 +275,7 @@ scholar:
   first_name: [Rodrigo]
 
   style: apa
-  locale: pt-br
+  locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
