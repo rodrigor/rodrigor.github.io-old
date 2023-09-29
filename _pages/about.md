@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: sobre
 permalink: /
 subtitle: <a href='https://ufpb.br/dcx'>Dep. Ciências Exatas/UFPB</a>, <a href='https://ayty.org'>AYTY</a>
 
