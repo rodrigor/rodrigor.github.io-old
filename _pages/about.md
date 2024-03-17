@@ -22,11 +22,7 @@ Exatas](http://www.dcx.ufpb.br) da [Universidade Federal da Paraíba
 aplicada, onde desenvolvemos pesquisa, capacitação e soluções a partir
 de colaboração ativa com o mercado.
 
-Minha pesquisa é focada na tomada de decisão usando perspectivas de
-negócios na gestão de dívidas técnicas. Esta pesquisa possui uma
-colaboração ativa com empresas, onde conduzimos técnicas de engenharia
-de software empiricas para obter resultados que geram impacto prático na
-indústria.
+Nos últimos anos tenho ajudado empresas em processos de transformação digital, melhoria de processos de negócios e melhoria de processos de desenvolvimento de software. Tenho coordenado diversos projetos envolvendo empresas, gerando oportunidades de pesquisa e capacitação de mais de 170 estudantes. Entre minhas áreas de pesquisa, tenho investigado como decisões de TI podem ser melhoradas utilizando a perspectiva do negócio. Todas as atuações são aplicadas direta ou indiretamente com empresas e a sociedade em geral.
 
 Entre meus hobbies, gosto de pedalar, tomar um bom café e jogar jogos de
 tabuleiro com a família e amigos. Também sou um entusiasta sobre ciência
