@@ -36,6 +36,10 @@ ajudá-lo(a) de qualquer forma.
 -   [My Profile @ Google
     Scholar](https://scholar.google.com/citations?hl=en&user=d-7Nrs0AAAAJ)
 -   [Lattes Curriculum](http://lattes.cnpq.br/4221517374410995)
+-   [ORCID](https://orcid.org/0000-0001-7829-9768)
+-   [DBLP](https://dblp.org/pid/223/4279.html)
+-   [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Reboucas-De-Almeida)
+
 -   E-mail: rodrigor (at) dcx.ufpb.br
 
 ## Redes sociais
